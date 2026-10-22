@@ -546,6 +546,7 @@ still in the menu. Everything else that changes the console's look
 | Overscan | Show all, Crop | Crop: cuts off the border a TV would hide |
 | Present fit | Letterbox, Fill 16:10 | Letterbox. Fill 16:10 fills a Steam Deck's screen and crops the sides a little |
 | Speed units | mph, km/h | mph, as on the disc. km/h also changes distances to metres. Applies from the next race |
+| Language (restart) | the languages on your disc | Only shown when the disc has more than one: the European disc has German, French and Italian text, speech and films, the US disc English only. Without a choice the game shows what an Xbox set to English would: French on the European disc |
 | Widescreen HUD | On, Off | On. With 16:9, keeps the HUD in its 4:3 shape at the edges of the picture. Applies from the next race |
 | Ultrawide | Off, 21:9, 32:9, Window | Off. Needs Aspect ratio 16:9. Applies from the next race |
 | Frame pacing | Automatic, Low latency, Smooth | Automatic: Smooth on a Steam Deck, Low latency elsewhere. Windows, Linux and Steam Deck. Smooth keeps one finished frame queued, so a late frame does not repeat the last one. It adds one refresh (16.7 ms at 60 Hz) of delay. On a variable-refresh display it acts like Low latency |
